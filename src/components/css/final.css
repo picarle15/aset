@@ -1,0 +1,80 @@
+body{
+    background: #fff none;
+    font: 12px/1.4 Arial, Helvetica, sans-serif;
+    color: #707070;
+    height:100%;
+    margin:0;
+    padding:0;
+}
+.container
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 50em;
+	margin-top: 40px;
+	margin-bottom: -40px;
+}
+.container2
+{
+	margin-left: 180px;
+	width: 92em;
+}
+.container1
+{
+	height: 48%;
+	margin-left: auto;
+	margin-right: auto;
+	width: 92em;
+}
+.textIrish
+{
+	font-size : 100%;
+	font-family : Verdana,Arial,Helvetica,Sans Serif;
+	color : #000000;
+	margin-top:40px;
+}
+.blanc{
+	margin-top: 50px;
+ 	margin-left: auto;
+	margin-right: auto;
+	height:290px;
+	width: 400px;
+	background-color: white;
+	border: 1px solid #d0d0d0;
+    border-radius: 3px;
+ }
+ #corps{
+background-color:white;
+width: 950px;
+margin: 30px auto 30px auto;
+height: 480px;
+border: 1px solid #d0d0d0;
+border-radius: 3px;
+padding: 0px 0 0 0;
+}
+#corps1{
+background-color:white;
+width: 950px;
+margin: 30px auto 30px auto;
+height: 250px;
+border: 1px solid #d0d0d0;
+border-radius: 3px;
+padding: 0px 0 0 0;
+}
+#title{
+margin: 30px auto -10px auto;
+border: 1px solid #d0d0d0;
+width: 950px;
+height: 80px;
+}
+#title{
+margin: 30px auto -10px auto;
+border: 1px solid #d0d0d0;
+width: 950px;
+height: 80px;
+}
+#title2{
+border-bottom: 1px solid #d0d0d0;
+width: 100%;
+height: 40px;
+}
